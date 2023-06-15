@@ -21,6 +21,9 @@
     - [电脑客户端](#电脑客户端)
     - [手机](#手机)
   - [文件结构](#文件结构)
+  - [使用终端 ssh 登陆](#使用终端-ssh-登陆)
+
+
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: zhangzhiyu, at: 2022年11月24日 星期四 22时23分15秒 CST -->
@@ -230,4 +233,13 @@ Data: 2022年11月10日上午7:54:16
 
 ![](https://gitee.com/erbiaoger/PicGo/raw/master/image/202211242221923.png)
 
+## 使用终端 ssh 登陆
 
+![image-20230615090331932](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306150903002.png)
+
+```shell
+ssh Nas
+cd /volume1/ZhangZhiyu
+```
+
+![](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306150857368.png)
