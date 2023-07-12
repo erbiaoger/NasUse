@@ -243,3 +243,7 @@ cd /volume1/ZhangZhiyu
 ```
 
 ![](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306150857368.png)
+
+## Synology Photos
+
+![截屏2023-07-12 15.39.50](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202307121539668.png)
